@@ -7,7 +7,7 @@ E.g., 25% = 25/100 = 0.25
 | ------------------------ | ---------------------------------------------------- |
 | % value                  | Part/Whole * 100                                     |
 | % increase               | Increase/Original * 100                              |
-| % decrease               | Decrease/Original 100                                |
+| % decrease               | Decrease/Original * 100                                |
 | Successive % change      |  x + y + xy/100                                      |
 | Converting % to fraction | e.g., 25% = 1/4, 20% = 1/5                           |
 
