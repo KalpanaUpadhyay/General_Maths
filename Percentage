@@ -1,0 +1,33 @@
+💡 Concept:
+“Per cent” means per hundred.
+E.g., 25% = 25/100 = 0.25
+
+🔑 Key Formulas:
+| Concept                  | Formula                                              |
+| ------------------------ | ---------------------------------------------------- |
+| % value                  | Part/Whole * 100                                     |
+| % increase               | Increase/Original * 100                              |
+| % decrease               | Decrease/Original 100                                |
+| Successive % change      |  x + y + xy/100                                      |
+| Converting % to fraction | e.g., 25% = 1/4, 20% = 1/5                           |
+
+🧠 Example 1 (Easy):
+If a number is increased by 25%, what is the new number if original was 120?
+New=120+25%of120 = 120+30 = 150
+
+🧠 Example 2 (Conceptual):
+If A's income is 20% more than B's, then how much % is B's income less than A’s?
+Let B = ₹100 → A = ₹120
+So, B is 20/120*100 = 16.67% less than A
+📝 Note: % increase and % decrease are not symmetric
+
+🧠 Example 3 (GATE/CSAT Style):
+If the price of a commodity increases by 25%, by how much % should the consumption be reduced so that the expenditure remains same?
+Use:  % decrease in consumption=  x/100+x * 100  Where x is the % increase in price
+So here,
+25/125×100=20%
+
+🔄 Similarly:
+If price decreases by x%, to keep expenditure constant,
+consumption must increase, and the formula becomes:
+% increase in consumption= x/100-x * 100
