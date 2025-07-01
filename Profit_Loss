@@ -1,0 +1,35 @@
+💰 Profit and Loss – Concepts & Formulas
+
+🔑 Basic Terms
+| Term                   | Meaning                       |
+| ---------------------- | ----------------------------- |
+| **Cost Price (CP)**    | Price at which item is bought |
+| **Selling Price (SP)** | Price at which item is sold   |
+| **Profit**             | $\text{SP} - \text{CP}$       |
+| **Loss**               | $\text{CP} - \text{SP}$       |
+
+
+✅ Key Formulas
+| Condition        | Formula                                          |
+| ---------------- | ------------------------------------------------ |
+| Profit %         | Profit/CP * 100                                  |
+| Loss %           | Loss/CP * 100                                    |
+| SP (if profit %) | SP = CP *(1 + P/100)                             |
+| SP (if loss %)   | SP = CP * (1 - L/100)                            |
+| CP (if profit %) | CP = SP / (1 + P/100)                            |
+| CP (if loss %)   | CP = SP / (1 - L/100)               |
+
+
+🧠 Quick Examples
+📘 Example 1:
+A shopkeeper buys an item for ₹200 and sells it for ₹250. Find profit %.
+Profit = 250-200 = 50
+Profit% = 50/200*100 = 25%
+
+📌 Shortcut Tricks (for Exams)
+If SP = k% of CP, then profit/loss % = k − 100
+
+When CP and SP are reversed, % profit and % loss are equal.
+E.g., buy at ₹100, sell at ₹80 → 20% loss
+If you buy at ₹80 and sell at ₹100 → 25% profit!
+
