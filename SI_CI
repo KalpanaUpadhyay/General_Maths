@@ -1,0 +1,58 @@
+🏦 Simple Interest (SI) & Compound Interest (CI)
+These are core topics in banking/finance-related exams and regularly appear in CSAT, SSC, Railways, etc.
+
+🔹 1. Simple Interest (SI)
+✅ Formula:
+SI = 𝑃*R*T/100
+Where:
+P = Principal
+R = Rate of Interest (% per annum)
+T = Time (in years)
+
+Total Amount (A)=P+SI
+
+ 2. Compound Interest (CI)
+Interest is calculated on principal + previous interest each year.
+
+✅ Formula:
+Amount (A) P*(1+R/100)^T
+CI = A-P
+
+🧠 Difference Between SI and CI:
+| SI                       | CI                            |
+| ------------------------ | ----------------------------- |
+| Same interest every year | Interest increases every year |
+| Easier to compute        | Slightly complex              |
+| Used in normal loans     | Used in banks/investments     |
+
+📘 Example 1 – SI:
+Q. Find the simple interest on ₹1000 at 10% per annum for 3 years.
+
+SI = 1000*10*3/100 = 300
+
+📘 Example 2 – CI:
+Q. Find compound interest on ₹1000 at 10% for 2 years.
+
+𝐴 =1000×(1+10/100)^2
+=
+1000×(1.1)^2
+= 1210
+
+
+A=1000×(1+ 100/10)^2
+ =1000×(1.1)^2
+ =1210
+
+CI=1210−1000=₹210
+
+
+🔄 Shortcut Trick for CI (2 years):
+CI=𝑃×(𝑅/100+(𝑅/100)^2)
+
+Example:
+
+CI=1000×(0.10+0.01)=₹210
+
+
+
+
