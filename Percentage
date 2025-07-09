@@ -31,3 +31,17 @@ So here,
 If price decreases by x%, to keep expenditure constant,
 consumption must increase, and the formula becomes:
 % increase in consumption= x/(100-x) * 100
+
+
+✅ Core Concepts to Learn : Summary
+| Topic                                              | What to Learn                                                                | Example                                        |
+| -------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------- |
+| 1. Basic Definition                                | Percentage = (Part / Whole) × 100                                            | 30 out of 50 → (30/50)×100 = 60%               |
+| 2. Conversion                                      | Fraction ⇄ Percentage ⇄ Decimal                                              | ¼ = 25%, 0.25 = 25%                            |
+| 3. Increase/Decrease                               | x% increase: New = Old × (1 + x/100)<br>x% decrease: New = Old × (1 - x/100) | 100 increased by 10% → 110                     |
+| 4. Successive Changes                              | Successive % formula: (x + y + xy/100)                                       | +20% then +10% → 32%                           |
+| 5. % Change Formula                                | % change = ((new - old)/old) × 100                                           | 120 to 150 → 25% increase                      |
+| 6. Comparison                                      | A is what % more/less than B?                                                | A = 60, B = 40 → A is 50% more                 |
+| 7. Reverse Percentage                              | Finding base from percentage                                                 | 80 is 20% of what? → 80×100/20 = 400           |
+| 8. Population Based %                              | Population after x years with rate r%                                        | P = P₀ × (1 ± r/100)ⁿ                          |
+| 9. Application in Profit & Loss, DI, Marks, Salary | Percent based application problems                                           | Find selling price, marks increased by x% etc. |
